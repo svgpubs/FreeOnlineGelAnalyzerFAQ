@@ -1,4 +1,4 @@
-# [![icon](svgpubs_gel_icon_25x25.png) Free Online Gel Analyzer](https://svgpubs.github.io/FreeOnlineGelAnalyzer/)
+# [![icon](svg_icon_30x30.png) Free Online Gel Analyzer](https://svgpubs.github.io/FreeOnlineGelAnalyzer/)
 
 # [![yt image](yticon_35x25.png) Quick-Start Tutorial](https://www.youtube.com/watch?v=8xcbzyapMgU&t=2s)
 
