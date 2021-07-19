@@ -1,6 +1,6 @@
 # [Free Online Gel Analyzer](https://svgpubs.github.io/FreeOnlineGelAnalyzer/)
 
-# [![yt image]yticon_35x25.png) Quick-Start Tutorial](https://www.youtube.com/watch?v=8xcbzyapMgU&t=2s)
+# [![yt image](yticon_35x25.png) Quick-Start Tutorial](https://www.youtube.com/watch?v=8xcbzyapMgU&t=2s)
 
 ### This Free Online Gel Analyzer App offers scientists a quick way to analyze SDSPAGE, Agarose and Western gels.
 
